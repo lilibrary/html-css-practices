@@ -1,5 +1,8 @@
 * {
-    font-family: "Arial";
+    font-family: SimSun, Helvetica, Arial,sans-serif;
+}
+hr {
+	color: grey;
 }
 div {
     width: 100%;
@@ -25,9 +28,9 @@ ul {
  }
 
 li {
-    margin-top:20px;
-    font-size: 25px;
-    font-weight: 800;
+	line-height: 32px;
+    font-size: 14px;
+    font-weight: 700;
 }
 
 p {
@@ -36,7 +39,7 @@ p {
 }
 a{
     text-decoration:none;
-    color: blue;
+    color: #00bcd4;
 }
 #x{
     height: 100%;
