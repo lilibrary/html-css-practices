@@ -7,24 +7,25 @@ div {
 }
 
 h1 {
-    margin-right: 100px;
+    margin: 0 auto;
     text-align: center;
 }
 #small {
+	margin-top: 15px;
     text-align: center;
     height: 5px;
     width: 100%;
-    padding-bottom: 3px;
+    padding-bottom: 15px;
 }
 ul {
+	color: grey;
     margin-left: 100px;
-    list-style-type: circle;
+    list-style-type: disc;
     list-style-position: inside;
  }
 
 li {
     margin-top:20px;
-    color: blue;
     font-size: 25px;
     font-weight: 800;
 }
@@ -35,11 +36,12 @@ p {
 }
 a{
     text-decoration:none;
+    color: blue;
 }
 #x{
     height: 100%;
     width: 700px;
-    margin-left:280px;
+    margin-left:200px;
     margin-right:100px;
 }
 
