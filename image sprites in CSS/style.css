@@ -2,7 +2,7 @@
 	height: 128px;
 	width: 256px;
 	border-radius: 8px;
-	background: #32b16c;
+	background: linear-gradient(#648880, #293f50);
 }
 
 .photo {
