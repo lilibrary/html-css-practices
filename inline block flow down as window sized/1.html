@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		*{
+			margin: 0;
+			padding: 0;
+		}
+
+		.clearfix:before, .clearfix:after {
+    	content: "";
+    	display: table;
+		}
+
+		.clearfix:after {
+    	clear: both;
+		}
+ 
+		.container {
+			margin-left:auto; 
+			margin-right:auto;
+			background-color: grey;
+			width: 100%;
+			height: 100%;
+			max-width:1000px;
+			padding: 10px;
+		}
+		
+		.george_father {
+			margin: 0 auto;
+			text-align: center;
+			background-color: black;
+		}
+		.george {
+			border: 1px black solid;
+			height: 100px;
+			width:170px;
+			margin: 14px;
+			background: red;
+			display: inline-block;
+		}
+
+
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="george_father clearfix">
+			<span class="george"></span> <span class="george"></span> <span class="george"></span> <span class="george"></span>
+		</div>
+	</div>
+</body>
+</html>

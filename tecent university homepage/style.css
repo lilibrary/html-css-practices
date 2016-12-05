@@ -53,6 +53,7 @@ a {
 
 .wxxy:hover {
 	background-image: url(./imgs/nav-on.png);
+	transition: all 2s;
 }
 
 .kfptxy {
