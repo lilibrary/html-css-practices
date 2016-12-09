@@ -1,0 +1,197 @@
+*{margin:0;padding:0; font-family:"微软雅黑"; color: grey;}
+a{text-decoration:none;}
+ul{list-style:none;}
+
+.header{
+	position: relative;
+	width: 100%;
+	height: 100%;
+
+}
+
+.header1{
+	width: 1040px;
+	height: 110px;
+	position: relative;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+.zhimeilogo {
+	top: 21px;
+	left: 0px;
+	display: block;
+}
+
+.headerphone{
+	height: 47px;
+	width: 179px;
+	float: right;
+	top: 0px;
+	right: 0px;
+	position:absolute;
+}
+
+.headertable{
+	left: 453px;
+	top: 70px;
+	background-size: contain;
+	height: 50px;
+	width: 700px;
+	position: absolute;
+}
+
+.headertable img{
+	vertical-align: middle;
+}
+
+.headertable span{
+	display: inline-block;
+	margin-right: 20px;
+	margin-left: 20px;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 60px;
+}
+
+.headertable span:hover{
+	color: black;
+}
+
+.s1{
+	width: 1581px;
+	height: 497px;
+	cursor: default;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	display: block;
+	outline: none;
+	margin: 0px auto;
+	background-image: url(img/index_02.png);
+	position:relative;
+}
+
+.s2{
+	width: 1581px;
+	height: 260px;
+}
+.s21{
+	height: 300px;
+	width: 1040px;
+	margin: 0 auto;
+	padding: 60px 0 60px 0;
+	position: relative;
+}
+
+/*.s211{
+    position: absolute;
+    top: 80px;
+    left: 0px;
+    width: 182px;
+    height: 130px;
+}*/
+
+
+.s210{
+    width: 182px;
+    height: 130px;
+    float: right;
+    margin-left: 30px;
+}
+
+
+
+.s211{
+    width: 182px;
+    height: 130px;
+    float: right;
+    margin-left: 30px;
+}
+
+
+
+.s212{
+    width: 182px;
+    height: 130px;
+    float: right;
+    margin-left: 30px;
+}
+
+.s213{
+    width: 182px;
+    height: 130px;
+    float: right;
+    margin-left: 30px;
+}
+
+.s214{
+    width: 182px;
+    height: 130px;
+    float: right;
+}
+
+
+
+.s214{
+	background-image: url(img/1.png);
+}
+
+.s214:hover{
+	background-image: url(img/a.png);
+}
+
+.s213{
+	background-image: url(img/2.png);
+}
+
+.s213:hover{
+	background-image: url(img/b.png);
+}
+.s212{
+	background-image: url(img/3.png);
+}
+
+.s212:hover{
+	background-image: url(img/c.png);
+}
+
+.s211{
+	background-image: url(img/4.png);
+}
+
+.s211:hover{
+	background-image: url(img/d.png);
+}
+
+.s210{
+	background-image: url(img/5.png);
+}
+
+.s210:hover{
+	background-image: url(img/e.png);
+}
+
+.s3{
+	width: 1581px;
+	height: 609px;
+	background:url(img/casexhibition.png) center top no-repeat;
+	background-color: #dbdbdb;
+	margin:0 auto;
+}
+
+.s31{
+	width:1040px;
+	height:609px;
+	margin:0 auto;
+}
+.s311{
+	width:1040px;
+	height:23px;
+	padding-top: 130px;
+	text-align: center;
+}
+.s312{
+	width:1040px;
+	height:23px;
+	text-align: center;
+}
